@@ -1,0 +1,23 @@
+body{
+    background-color: lightgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    background-color: peru;
+    text-align: center;
+    color: antiquewhite;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.tamañofoto{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+
+}
